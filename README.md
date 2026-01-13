@@ -1,4 +1,3 @@
-
 # 🕸️ Web Scraper Project (Python)
 
 A simple yet powerful web scraper built using **Python**, **Requests**, and **BeautifulSoup4**.  
